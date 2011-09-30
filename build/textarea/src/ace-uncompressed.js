@@ -17757,7 +17757,8 @@ window.__ace_shadowed__.transformTextarea = function(element) {
         background: "red",
         cursor: "pointer",
         textAlign: "center",
-        fontSize: "12px"
+        fontSize: "12px",
+        display: "none"
     });
     settingOpener.innerHTML = "I";
 
